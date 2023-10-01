@@ -28,3 +28,4 @@ coverage
 *.sw?
 sshKey
 sshKey.Pub
+.env
